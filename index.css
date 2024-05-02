@@ -1,0 +1,21 @@
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.table-hover tbody tr:hover {
+  background-color: #ddd;
+}
+
+
+
+h2{
+    text-align: center;
+    background-color: chartreuse;
+    color: red;
+ 
+}
+.thead-dark{
+     font-size: larger;
+    text-align: center;
+}
